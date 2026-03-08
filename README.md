@@ -19,11 +19,19 @@ This application is built for ease of distribution:
 
 ## Installation
 
-### Prerequisites
+### 📥 Download Pre-built Binary (Recommended)
 
--   **Rust**: You need the Rust toolchain installed (Edition 2024).
+You can download the latest pre-built binary from the **[Releases](https://github.com/Duytan1801/NSFW/releases)** page.
 
-### Building from Source
+```bash
+# Example for Linux
+chmod +x NSFW
+./NSFW
+```
+
+### 🛠️ Building from Source
+
+If you prefer to build it yourself (requires Rust 2024):
 
 ```bash
 git clone https://github.com/Duytan1801/NSFW.git
