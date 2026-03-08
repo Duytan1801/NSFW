@@ -25,6 +25,7 @@ cargo build --release
 - **Zero Dependencies**: Everything (models + runtime) is embedded in one binary.
 - **Fast**: Powered by ONNX Runtime for high-performance inference.
 - **Interactive**: Simple interface to get safety scores and cleaned text.
+<img width="838" height="497" alt="image" src="https://github.com/user-attachments/assets/42877965-9827-4587-90cf-d65f565eafd6" />
 
 ---
 Built with [openlb](https://crates.io/crates/openlb).
